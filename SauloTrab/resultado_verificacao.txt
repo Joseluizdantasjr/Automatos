@@ -1,5 +1,0 @@
-01 - Aceita
-001 - Não aceita
-111 - Não aceita
-100 - Não aceita
-1010 - Não aceita
